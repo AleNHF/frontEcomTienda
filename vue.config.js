@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/frontEcomTienda"
+    outputDir: 'dist',
 }
